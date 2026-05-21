@@ -44,7 +44,7 @@ I notice logical fallacies. I find that stuff interesting. If you want to talk a
 
 ## Where I am headed:
 
-Currently focusing mainly on becoming eligible for the cybersecurity/ security analyst role. late in life i wish to work towards an MBA and DBA degree, focused in security management but i may transition based on needs of the time. These are things I am considering, not a locked in plan. I am ambitious but I know these paths change as you learn more. I will see where I actually end up.
+Currently focusing mainly on becoming eligible for the cybersecurity/ security analyst role. in the long term i wish to work towards an MBA and DBA degree, focused in security management but i may transition based on needs of the time. These are things I am considering, not a locked in plan. I am ambitious but I know these paths change as you learn more. I will see where I actually end up.
 
 ---
 
