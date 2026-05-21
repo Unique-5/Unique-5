@@ -54,5 +54,3 @@ Currently focusing mainly on becoming eligible for the cybersecurity/ security a
 - Location: West Bengal, India
 
 ---
-
-Tell me what feels off. I can adjust the opening tagline, the tone of the career section, or anything else that does not sound like you yet.
