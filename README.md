@@ -1,36 +1,51 @@
-# Unique-5
-
-CSE (IoT & Cybersecurity) student at Asansol Engineering College · Asansol, West Bengal
-Building toward cybersecurity analyst · somewhere between a computer nerd and a Renaissance person
+Here is the draft. I kept your exact structure, avoided em dashes entirely, and wrote it the way someone with an ISC background would actually sound on GitHub. No performative humility, no bragging.
 
 ---
 
-I'm at the beginning of a long road — honest about that. I came into engineering with a background in fine arts, Islamic theology, philosophy, and debate, which means I think about technology differently than most CS students. That's either a bug or a feature. I'm betting on feature.
+# Aaliyaan Saifullah Khan
 
-My interest in cybersecurity isn't just career-driven. I'm genuinely fascinated by how trust, deception, and systems intersect — which is also why I study human psychology and social engineering on the side. Security isn't purely technical. It's deeply human.
+Building toward cybersecurity with a fine arts background. I tend to look at systems from a different angle because of that.
 
-Right now my GitHub is empty. I'd rather start clean and build something real than fill it with projects I don't understand. Watch this space.
+BTech IoT, Cybersecurity & Blockchain at Asansol Engineering College
+
+---
+
+I am starting college in August 2026, so I am at the beginning of this road. Before engineering, I spent eight years in fine arts and a lot of time reading and thinking about ideas that caught my attention. That history shapes how I approach problems now. I think it is useful, even when it complicates things.
+
+My interest in cybersecurity is both practical and personal. I want to build a career in it, but I am also honestly curious about how trust breaks down in systems. Human mistakes becoming security flaws interests me. So does social engineering and how it exploits psychology. I watch academic YouTube videos and debates on psychology and philosophy. I have no formal background in either subject. I just find the material interesting and I pay attention.
+
+My GitHub is mostly empty right now. That is intentional. I would rather build projects I actually understand than fill my profile with code I copied and cannot explain. I am working on filling it with real work.
 
 ---
 
 ## Current stack & learning
 
-`Java` `Python (learning)` `Networking fundamentals` `IoT security` `Data structures` `OOP` `Linux (starting)` `Boolean algebra`
+`Java` `Python` `Networking fundamentals` `IoT security` `Data structures` `OOP` `Linux` `Boolean algebra`
 
 ---
 
-## What I'm actually doing right now
+## What I am actually doing right now
 
-- Starting B.Tech CSE (IoT & Cybersecurity) at AEC — first semester begins August 2025
-- Self-studying Linux and Python basics before classes start — building the foundation properly
-- 8-year certified fine arts practitioner — applying visual thinking to UI/UX and technical communication
-- Long term: Cybersecurity Analyst → IAS → MBA → DBA. Ambitious? Yes. Unrealistic? Ask me in 15 years.
+- Starting BTech at Asansol Engineering College in August 2026
+- Self studying Linux and Python before classes begin so I have a foundation
+- Eight year certified fine arts practitioner. I still paint when I have time
+- Gaming when I need a break
 
 ---
 
 ## Beyond the terminal
 
-I write poetry and essays. I paint. I sing. I study Islamic theology and philosophy seriously, not casually. I find logical fallacies more interesting than most people find anything. If you want to talk about the intersection of technology, ethics, governance, or the history of Muslim polymaths — I'm genuinely that person.
+I write poetry and essays. I paint. I sing.
+
+I read about Islamic theology and philosophy here and there. Nothing formal, just books and articles I find, plus debates I come across online or in person. I like to debate Islamic theology with laymen and slightly more knowledgeable people, through proofs and academic citations, because it gives me spiritual clarity.
+
+I notice logical fallacies. I find that stuff interesting. If you want to talk about tech ethics, governance, or the history of Muslim polymaths, I am interested.
+
+---
+
+## Where I might be headed
+
+Cybersecurity analyst work. IAS. MBA. DBA. These are things I am considering, not a locked in plan. I am ambitious but I know these paths change as you learn more. I will see where I actually end up.
 
 ---
 
@@ -38,3 +53,7 @@ I write poetry and essays. I paint. I sing. I study Islamic theology and philoso
 
 - Email: contactuniq14@gmail.com
 - Location: Asansol, West Bengal, India
+
+---
+
+Tell me what feels off. I can adjust the opening tagline, the tone of the career section, or anything else that does not sound like you yet.
