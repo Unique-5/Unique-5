@@ -1,4 +1,3 @@
-Here is the draft. I kept your exact structure, avoided em dashes entirely, and wrote it the way someone with an ISC background would actually sound on GitHub. No performative humility, no bragging.
 
 ---
 
@@ -10,7 +9,7 @@ BTech IoT, Cybersecurity & Blockchain at Asansol Engineering College
 
 ---
 
-I am starting college in August 2026, so I am at the beginning of this road. Before engineering, I spent eight years in fine arts and a lot of time reading and thinking about ideas that caught my attention. That history shapes how I approach problems now. I think it is useful, even when it complicates things.
+I am starting college in August 2026, so I am at the beginning of this road. I spent eight years in fine arts (certified Guru in painting) and a lot of time reading and thinking about ideas that caught my attention. 
 
 My interest in cybersecurity is both practical and personal. I want to build a career in it, but I am also honestly curious about how trust breaks down in systems. Human mistakes becoming security flaws interests me. So does social engineering and how it exploits psychology. I watch academic YouTube videos and debates on psychology and philosophy. I have no formal background in either subject. I just find the material interesting and I pay attention.
 
@@ -35,7 +34,7 @@ My GitHub is mostly empty right now. That is intentional. I would rather build p
 
 ## Beyond the terminal
 
-I write poetry and essays. I paint. I sing.
+I write poetry and essays, i like to paint when i am free and i like to sing.
 
 I read about Islamic theology and philosophy here and there. Nothing formal, just books and articles I find, plus debates I come across online or in person. I like to debate Islamic theology with laymen and slightly more knowledgeable people, through proofs and academic citations, because it gives me spiritual clarity.
 
@@ -43,16 +42,16 @@ I notice logical fallacies. I find that stuff interesting. If you want to talk a
 
 ---
 
-## Where I might be headed
+## Where I am headed:
 
-Cybersecurity analyst work. IAS. MBA. DBA. These are things I am considering, not a locked in plan. I am ambitious but I know these paths change as you learn more. I will see where I actually end up.
+Currently focusing mainly on becoming eligible for the cybersecurity/ security analyst role. late in life i wish to work towards an MBA and DBA degree, focused in security management but i may transition based on needs of the time. These are things I am considering, not a locked in plan. I am ambitious but I know these paths change as you learn more. I will see where I actually end up.
 
 ---
 
 ## Get in touch
 
 - Email: contactuniq14@gmail.com
-- Location: Asansol, West Bengal, India
+- Location: West Bengal, India
 
 ---
 
