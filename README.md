@@ -1,56 +1,40 @@
-
 ---
 
 # Aaliyaan Saifullah Khan
 
-Building toward cybersecurity with a fine arts background. I tend to look at systems from a different angle because of that.
-
-BTech IoT, Cybersecurity & Blockchain at Asansol Engineering College
+BTech Information Technology, Techno Main Salt Lake (MAKAUT) | Aspiring Cloud & Network Security | Freelance Artist
 
 ---
 
-I am starting college in August 2026, so I am at the beginning of this road. I spent eight years in fine arts (certified Guru in painting) and a lot of time reading and thinking about ideas that caught my attention. 
-
-My interest in cybersecurity is both practical and personal. I want to build a career in it, but I am also honestly curious about how trust breaks down in systems. Human mistakes becoming security flaws interests me. So does social engineering and how it exploits psychology. I watch academic YouTube videos and debates on psychology and philosophy. I have no formal background in either subject. I just find the material interesting and I pay attention.
-
-My GitHub is mostly empty right now. That is intentional. I would rather build projects I actually understand than fill my profile with code I copied and cannot explain. I am working on filling it with real work.
+Adaptable IT student with a background in fine art, bringing a structured, logical approach to technical problem-solving. Interested in long-term growth toward cloud and network security.
 
 ---
 
-## Current stack & learning
+## Certifications
 
-`Java` `Python` `Networking fundamentals` `IoT security` `Data structures` `OOP` `Linux` `Boolean algebra`
-
----
-
-## What I am actually doing right now
-
-- Starting BTech at Asansol Engineering College in August 2026
-- Self studying Linux and Python before classes begin so I have a foundation
-- Eight year certified fine arts practitioner. I still paint when I have time
-- Gaming when I need a break
+- Foundations of Cybersecurity — Google Cybersecurity Certificate
+- Play It Safe: Manage Security Risks — Google Cybersecurity Certificate
+- Ankan Guru — Master of Sketching
 
 ---
 
-## Beyond the terminal
+## Skills
 
-I write poetry and essays, i like to paint when i am free and i like to sing.
-
-I read about Islamic theology and philosophy here and there. Nothing formal, just books and articles I find, plus debates I come across online or in person. I like to debate Islamic theology with laymen and slightly more knowledgeable people, through proofs and academic citations, because it gives me spiritual clarity.
-
-I notice logical fallacies. I find that stuff interesting. If you want to talk about tech ethics, governance, or the history of Muslim polymaths, I am interested.
+`Java` `Fine Art` `Creative Writing`
 
 ---
 
-## Where I am headed:
+## Education
 
-Currently focusing mainly on becoming eligible for the cybersecurity/ security analyst role. in the long term i wish to work towards an MBA and DBA degree, focused in security management but i may transition based on needs of the time. These are things I am considering, not a locked in plan. I am ambitious but I know these paths change as you learn more. I will see where I actually end up.
+- Techno Main – Salt Lake — Bachelor of Technology, Information Technology
+- St. Patrick's H.S. School, Asansol — Class 12 (ISC), Core Science with Computer Science, 2024–2026
 
 ---
 
 ## Get in touch
 
-- Email: contactuniq14@gmail.com
-- Location: West Bengal, India
+- Email: aliyaan9750@gmail.com
+- LinkedIn: [aaliyaan-saifullah-khan-21b619336](https://www.linkedin.com/in/aaliyaan-saifullah-khan-21b619336)
+- Location: Asansol, West Bengal, India
 
 ---
