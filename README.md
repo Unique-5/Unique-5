@@ -2,7 +2,7 @@
 
 # Aaliyaan Saifullah Khan
 
-BTech Information Technology, Techno Main Salt Lake (MAKAUT) | Aspiring Cloud & Network Security | Freelance Artist
+BTech Information Technology, Techno Main Salt Lake (MAKAUT) | Aspiring SDE | Freelance Artist
 
 ---
 
@@ -21,6 +21,8 @@ Adaptable IT student with a background in fine art, bringing a structured, logic
 ## Skills
 
 `Java` `Fine Art` `Creative Writing`
+
+About java, i am fluent with basic java including simple data structures like arrays, recursive functions and hashmaps.
 
 ---
 
